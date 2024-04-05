@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'zeeoneofficial', // Your GitHub org/user name. (Required)
+    username: 'waceera', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 15, // How many projects to display.
     exclude: {
@@ -11,12 +11,12 @@ const config = {
     },
   },
   social: {
-    twitter: 'Zeeoneofc',
-    instagram: 'Zeeoneofc',
-    dev: 'Zeeoneofc',
-    website: 'https://api.zeeoneofc.my.id',
-    phone: '+62887435047326',
-    email: 'zeeoneofc@yahoo.com',
+    twitter: 'apakahinisurya',
+    instagram: 'gwehjhazel',
+    dev: 'Hazel',
+    website: 'https://linktr.ee/tempoyakudang',
+    phone: '+6283139453295',
+    email: 'hazelsupp0rt@yahoo.com',
   },
   resume: {
     fileUrl:
@@ -37,14 +37,6 @@ const config = {
       link: 'https://example.com'
     },
   ], */
-  education: [
-    {
-      institution: 'UPT SMAN 6 SINJAI',
-      degree: 'Student',
-      from: '2018',
-      to: '2021',
-    },
-  ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
     source: 'dev', // medium | dev
